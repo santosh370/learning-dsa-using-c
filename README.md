@@ -93,6 +93,7 @@ Steps to create file, complie and execute the file.
 		12. Enter the price of 1kg rice, Enter the price of 1kg sugar. LIST OF ITEMS with total
 		13. Find the sum of all the digits of given numbers
 		14. COunt the number between X and Y that are divisible by 7. Also Sum of those numbers.
+		15. Find the factorial of given number.
 
 ## Array
 	* Basic Array
