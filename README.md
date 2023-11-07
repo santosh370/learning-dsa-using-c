@@ -16,8 +16,8 @@ Steps to create file, complie and execute the file.
 
 
 ## Introduction 
-	* Hello world Program
-		1. Print hello world
+	* 1st Program
+		1. Print "Namste Bharat"
 		2. Print your name
 		3. Take user input
 
