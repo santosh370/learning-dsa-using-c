@@ -6,7 +6,7 @@
 int main()
 {
 	// This is One line comment
-	printf("I am just below of single line comment. \n");
+	printf("// YOUR COMMENT WILL COME HERE 	->  This is used for single line comment. I am just below of single line comment. \n");
 	/*
 	 * This is multiple line comment.
 	 * You can use multiline line comment like this.
@@ -14,7 +14,7 @@ int main()
 	 * End of the comment
 	*/
 
-	printf("I am just below of multi-line comment....\n");
+	printf("/* YOUR COMMENT WILL COME HERE */ -> This one used for multiline comments. I am just below of multi-line comment....\n");
 
 	return 0;
 }

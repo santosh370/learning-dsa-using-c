@@ -32,8 +32,8 @@ Steps to create file, complie and execute the file.
 
 ## Data Types
 	* C Data Types
-		1. 
-		2. 
+		1. declare int, float etc..
+		2. How to declare and print data type variables
 		3. 
 		4. 
 		5.
