@@ -1,6 +1,7 @@
 # learning-dsa-using-c
 learning Data structure and Algo from scratch using C language
 
+- [ ] test3
 
 Steps to create file, complie and execute the file.
 
@@ -25,6 +26,7 @@ Steps to create file, complie and execute the file.
 		- [ ] Single line comment
 		- [ ] Multiline comments
 		- [ ] \(Optional) Open a followup issue
+		- [ ] test3
 
 	* Declare Variables
 		1. Declare variables
