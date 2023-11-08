@@ -24,6 +24,7 @@ Steps to create file, complie and execute the file.
 	* How to write comments
 		- [ ] Single line comment
 		- [ ] Multiline comments
+		- [ ] \(Optional) Open a followup issue
 
 	* Declare Variables
 		1. Declare variables
