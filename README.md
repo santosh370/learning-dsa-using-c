@@ -17,13 +17,13 @@ Steps to create file, complie and execute the file.
 
 ## Introduction 
 	* 1st Program
-		1. Print "Namste Bharat"
-		2. Print your name
-		3. Take user input
+		- [x] 1. Print "Namste Bharat"
+		- [x] 2. Print your name
+		- [x] 3. Take user input
 
 	* How to write comments
-		1. Single line comment
-		2. Multiline comments
+		- [] 1. Single line comment
+		- [] 2. Multiline comments
 
 	* Declare Variables
 		1. Declare variables
